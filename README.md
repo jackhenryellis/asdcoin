@@ -29,7 +29,7 @@ A T B A S H
 A B C D E F
 ```
 
-[Coin side A](https://www.asd.gov.au/sites/default/files/2022-09/ASD-50-SIDE-A-Hires.jpg)
+[Coin side A](https://www.asd.gov.au/sites/default/files/2022-09/ASD-50-SIDE-A-Hires.jpg).
 The tail side of the coin contains two rings of alphabetic ciphertext as well as a series of hexadecimal values.
 
 
