@@ -2,9 +2,9 @@
 `asdcoin.py` is a program that decrypts the multiple layers of encryption present on the [Australian Signal Directorate's 75th Anniversary Commemorative Coin](https://www.asd.gov.au/75th-anniversary/events/2022-09-01-75th-anniversary-commemorative-coin).
 
 ## Decryption
-[Coin side B](https://www.asd.gov.au/sites/default/files/2022-09/ASD-50-SIDE-B-Hires.jpg)
 
 ### Puzzle 1
+[Coin side B](https://www.asd.gov.au/sites/default/files/2022-09/ASD-50-SIDE-B-Hires.jpg)
 The braille letters **CBFAED** are inscribed on the head side of the coin, under the letters **BTHASA**.
 ```
 E L I Z A B E T H  I I  .  A U S T R A L I A  2 0 2 2  .  5 0  C E N T S
@@ -29,11 +29,9 @@ A T B A S H
 A B C D E F
 ```
 
-[Coin side A](https://www.asd.gov.au/sites/default/files/2022-09/ASD-50-SIDE-A-Hires.jpg).
-The tail side of the coin contains two rings of alphabetic ciphertext as well as a series of hexadecimal values.
-
 
 ### Puzzle 2
+[Coin side A](https://www.asd.gov.au/sites/default/files/2022-09/ASD-50-SIDE-A-Hires.jpg)
 The ciphertext of the outer ring reads
 ```
 .DVZIVZFWZXRLFHRMXLMXVKGZMWNVGRXFOLFHRMVCVXFGRLM.URMWXOZIRGBRM7DRWGSC5WVKGS
