@@ -4,8 +4,7 @@
 ## Decryption
 
 ### Puzzle 1
-[Coin side B](https://www.asd.gov.au/sites/default/files/2022-09/ASD-50-SIDE-B-Hires.jpg)
-The braille letters **CBFAED** are inscribed on the head side of the coin, under the letters **BTHASA**.
+The braille letters **CBFAED** are inscribed on the [head side of the coin](https://www.asd.gov.au/sites/default/files/2022-09/ASD-50-SIDE-B-Hires.jpg), under the letters **BTHASA**.
 ```
 E L I Z A B E T H  I I  .  A U S T R A L I A  2 0 2 2  .  5 0  C E N T S
 ------------------------------------------------------------------------
@@ -31,8 +30,7 @@ A B C D E F
 
 
 ### Puzzle 2
-[Coin side A](https://www.asd.gov.au/sites/default/files/2022-09/ASD-50-SIDE-A-Hires.jpg)
-The ciphertext of the outer ring reads
+The ciphertext of the outer ring on the [tails side of the coin](https://www.asd.gov.au/sites/default/files/2022-09/ASD-50-SIDE-A-Hires.jpg) reads
 ```
 .DVZIVZFWZXRLFHRMXLMXVKGZMWNVGRXFOLFHRMVCVXFGRLM.URMWXOZIRGBRM7DRWGSC5WVKGS
 ```
@@ -68,7 +66,7 @@ The end of the plaintext reads **FIND CLARITY IN 7 WIDTH X 5 DEPTH**, suggesting
 
 
 ### Puzzle 3
-The ciphertext of the inner ring reads
+The ciphertext of the inner ring on the [tails side of the coin](https://www.asd.gov.au/sites/default/files/2022-09/ASD-50-SIDE-A-Hires.jpg) reads
 ```
 BGOAMVOEIATSIRLNGTTNEOGRERGXNTEAIFCECAIEOALEKFNR5LWEFCHDEEAEEE7NMDRXX5
 ```
@@ -107,7 +105,7 @@ The ciphetext ends in **XOR HEX A5D75** - l33tspeak for ASD 75 and a hint pertai
 
 
 ### Puzzle 4
-A series of hexadecimal values can be found on the lower right portion of the coin
+A series of hexadecimal values can be found in the lower right portion of the [tails side of the coin](https://www.asd.gov.au/sites/default/files/2022-09/ASD-50-SIDE-A-Hires.jpg)
 ```
 E3B
 8287D4
